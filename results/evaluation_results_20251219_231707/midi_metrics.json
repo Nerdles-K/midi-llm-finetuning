@@ -1,0 +1,138 @@
+{
+  "midi_feature_comparison": {
+    "duration": {
+      "original_mean": 34.630500000000026,
+      "fine_tuned_mean": 34.582000000000086,
+      "difference": -0.04849999999994026,
+      "percent_change": -0.140049955963501
+    },
+    "num_notes": {
+      "original_mean": 680.5,
+      "fine_tuned_mean": 681.75,
+      "difference": 1.25,
+      "percent_change": 0.18368846436443792
+    },
+    "note_density": {
+      "original_mean": 25.771580029775684,
+      "fine_tuned_mean": 22.458102012653086,
+      "difference": -3.3134780171225984,
+      "percent_change": -12.857100780372443
+    },
+    "pitch_range": {
+      "original_mean": 47.45,
+      "fine_tuned_mean": 51.5,
+      "difference": 4.049999999999997,
+      "percent_change": 8.535300316122227
+    },
+    "avg_pitch": {
+      "original_mean": 56.75671748334423,
+      "fine_tuned_mean": 54.76081392256301,
+      "difference": -1.9959035607812226,
+      "percent_change": -3.5165944213862232
+    },
+    "pitch_std": {
+      "original_mean": 11.781548607494704,
+      "fine_tuned_mean": 12.594697244310291,
+      "difference": 0.8131486368155869,
+      "percent_change": 6.901882459648057
+    },
+    "avg_velocity": {
+      "original_mean": 72.0,
+      "fine_tuned_mean": 72.0,
+      "difference": 0.0,
+      "percent_change": 0.0
+    },
+    "velocity_std": {
+      "original_mean": 0.0,
+      "fine_tuned_mean": 0.0,
+      "difference": 0.0,
+      "percent_change": 0.0
+    },
+    "avg_ioi": {
+      "original_mean": 0.09021127964810015,
+      "fine_tuned_mean": 0.07645578475327167,
+      "difference": -0.013755494894828482,
+      "percent_change": -15.248087543471813
+    },
+    "ioi_std": {
+      "original_mean": 2.420491628250701,
+      "fine_tuned_mean": 2.295491877804361,
+      "difference": -0.12499975044634004,
+      "percent_change": -5.164229819570905
+    },
+    "num_instruments": {
+      "original_mean": 3.4,
+      "fine_tuned_mean": 2.7,
+      "difference": -0.6999999999999997,
+      "percent_change": -20.58823529411764
+    },
+    "avg_note_duration": {
+      "original_mean": 0.05091139222780722,
+      "fine_tuned_mean": 0.05074109372773651,
+      "difference": -0.00017029850007070635,
+      "percent_change": -0.3344997899658522
+    },
+    "note_duration_std": {
+      "original_mean": 0.0,
+      "fine_tuned_mean": 0.0,
+      "difference": 0.0,
+      "percent_change": 0.0
+    },
+    "avg_tempo": {
+      "original_mean": 120.0,
+      "fine_tuned_mean": 120.0,
+      "difference": 0.0,
+      "percent_change": 0.0
+    }
+  },
+  "text_midi_alignment": {
+    "original_avg": 0.5599999999999999,
+    "fine_tuned_avg": 0.5599999999999999,
+    "improvement": 0.0,
+    "original_scores": [
+      0.6,
+      0.6,
+      0.7,
+      0.6,
+      0.7,
+      0.6,
+      0.5,
+      0.5,
+      0.7,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.6,
+      0.5,
+      0.6,
+      0.5
+    ],
+    "fine_tuned_scores": [
+      0.6,
+      0.6,
+      0.7,
+      0.6,
+      0.7,
+      0.6,
+      0.5,
+      0.5,
+      0.7,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.5,
+      0.6,
+      0.5,
+      0.6,
+      0.5
+    ]
+  },
+  "note": "MIDI-based evaluation (no audio conversion needed)"
+}

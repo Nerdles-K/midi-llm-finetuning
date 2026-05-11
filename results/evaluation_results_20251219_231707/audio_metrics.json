@@ -1,0 +1,14 @@
+{
+  "audio_features": {
+    "original": [],
+    "fine_tuned": []
+  },
+  "text_audio_alignment": {
+    "original_avg": NaN,
+    "fine_tuned_avg": NaN,
+    "improvement": NaN,
+    "original_scores": [],
+    "fine_tuned_scores": []
+  },
+  "note": "Simplified metrics using pretty_midi and librosa (no external FAD/CLAP models)"
+}

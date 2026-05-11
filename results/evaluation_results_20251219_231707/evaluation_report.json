@@ -1,0 +1,44 @@
+{
+  "timestamp": "20251219_231707",
+  "num_samples": 20,
+  "prompts": [
+    "a cheerful piano melody",
+    "a sad violin solo",
+    "upbeat jazz with piano and drums",
+    "gentle acoustic guitar",
+    "energetic rock guitar riff",
+    "classical piano sonata",
+    "electronic dance music with synthesizers",
+    "slow blues with harmonica",
+    "fast-paced metal with heavy guitars",
+    "ambient atmospheric soundscape",
+    "folk music with acoustic instruments",
+    "romantic orchestral strings",
+    "funky bass groove",
+    "happy children's song",
+    "dramatic film score",
+    "relaxing spa music",
+    "intense action movie theme",
+    "melancholic cello solo",
+    "triumphant brass fanfare",
+    "mysterious dark ambient"
+  ],
+  "original_model": {
+    "success_count": 20,
+    "success_rate": 1.0,
+    "avg_generation_time": 55.08186008930206,
+    "avg_tokens_per_sample": 2048.0,
+    "total_time": 1101.6372017860413
+  },
+  "fine_tuned_model": {
+    "success_count": 20,
+    "success_rate": 1.0,
+    "avg_generation_time": 82.00485364198684,
+    "avg_tokens_per_sample": 2048.0,
+    "total_time": 1640.097072839737
+  },
+  "comparison": {
+    "success_rate_improvement": 0.0,
+    "speed_improvement": -26.92299355268478
+  }
+}
