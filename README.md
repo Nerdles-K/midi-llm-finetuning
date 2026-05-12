@@ -4,7 +4,7 @@
 [![Model](https://img.shields.io/badge/🤗-Merged%20Model-yellow)](https://huggingface.co/Pyramidk/midi-llm-merged)
 [![Base](https://img.shields.io/badge/Base-slseanwu%2FMIDI--LLM-lightgrey)](https://github.com/slSeanWU/MIDI-LLM)
 
-> Course project for **DDA4220** (CUHK-Shenzhen). Fine-tunes [slSeanWU/MIDI-LLM](https://github.com/slSeanWU/MIDI-LLM)
+> Course project. Fine-tunes [slSeanWU/MIDI-LLM](https://github.com/slSeanWU/MIDI-LLM)
 > (Llama 3.2 1B) with **QLoRA**, extends the vocab with **velocity / chord / CFG tokens**, and ships a
 > deployable Gradio webapp with live progress and in-browser MIDI playback.
 
